@@ -1,0 +1,5 @@
+train: /content/SIPYOLO/train
+val: /content/SIPYOLO/val
+
+nc: 1
+names: ['car']
