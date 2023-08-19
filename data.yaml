@@ -1,5 +1,6 @@
 train: /content/SIPYOLO/train
 val: /content/SIPYOLO/val
+test: /content/SIPYOLO/test
 
 nc: 1
 names: ['car']
